@@ -2,13 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Tayab Javaid>`
+- **CCID:** `<27100188>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
-
+Claude used to explain how editing could be changed to be done on hold, so that delete could be fit using a selected city.
 ## Verbal Collaboration
 
 | Student Name | CCID     |

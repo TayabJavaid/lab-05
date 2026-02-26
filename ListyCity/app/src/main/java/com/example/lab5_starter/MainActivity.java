@@ -121,13 +121,7 @@ public class MainActivity extends AppCompatActivity implements CityDialogFragmen
     }
 
     public void deleteCity(City city) {
-        citiesRef.document(city.getName()).delete()
-                .addOnSuccessListener(aVoid -> {
-                    Log.d("Firestore", "City deleted: " + city.getName());
-                })
-                .addOnFailureListener(e -> {
-                    Log.e("Firestore", "Error deleting city: " + e.toString());
-                });
+        citiesRef.document(city.getName()).delete();
     }
 
 
